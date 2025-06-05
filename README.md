@@ -1,6 +1,6 @@
 # ☕ Java Starter Projects – Stage 2
 
-This repository contains beginner-level Java console-based projects to practice core programming concepts (continued from [Java-Starter-Projects](https://github.com/your-username/Java-Starter-Projects)).
+This repository contains beginner-level Java console-based projects to practice core programming concepts (continued from [Java-Starter-Projects](https://github.com/raushan728/Java-Starter-Projects)).
 
 Each project is in its own folder and includes:
 
