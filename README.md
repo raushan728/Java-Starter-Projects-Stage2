@@ -41,7 +41,6 @@ cd path/to/project-folder
 ### 2. Compile the Java File
 ```
 javac FileName.java
-
 ```
 Replace FileName.java with the actual file name (e.g., TemperatureConverter.java).
 
