@@ -24,9 +24,9 @@ This is a simple Java console-based banking system that allows a user to create 
 ## 🚀 How to Run
 
 1. **Open Terminal or Command Prompt**
-   Navigate to the folder where your `SimpleBankingSystem.java` file is located:
-   ```bash
-   cd path/to/project-folder
+  Navigate to the folder where your `SimpleBankingSystem.java` file is located:
+  ```bash
+  cd path/to/project-folder
   ```
 2. **Compile the Java file**
   ```
