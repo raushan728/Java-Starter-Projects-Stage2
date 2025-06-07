@@ -93,17 +93,17 @@ Thank you for using SimpleBankingSystem
 ---
 
 ## 🧠 Concepts Used
--Classes and Objects
+- Classes and Objects
 
--Methods
+- Methods
 
--Encapsulation
+- Encapsulation
 
--Exception Handling (try-catch)
+- Exception Handling (try-catch)
 
--Input validation
+- Input validation
 
--Loops and Menus
+- Loops and Menus
 
 ---
 
